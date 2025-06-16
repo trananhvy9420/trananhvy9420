@@ -47,21 +47,7 @@
   <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000"  width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="48" height="48"/>
-  
-  
-</p>
-
-## Activities:
-
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trananhvy&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=0000trananhvy9420&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=trananhvy&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
     <td>
