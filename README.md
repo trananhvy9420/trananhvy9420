@@ -47,9 +47,9 @@
   <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=0000trananhvy9420&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+
  
-    </td>
+ 
   
   </tr>
 </table>
