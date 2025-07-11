@@ -30,6 +30,9 @@
   <a href="https://www.instagram.com/quachthanhvy159o/" alt="Instagram">
     <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="48" height="48" />
   </a>
+  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" alt="Gmail"> 
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="48" height="48"/>
+  </a>
 </p>
 
 ## Languages and Tools :
