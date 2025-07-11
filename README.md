@@ -24,7 +24,7 @@
   <a href="https://www.facebook.com/1590trananhvy/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank"width="48" height="48" />
   </a> 
-  <a href="https://github.com/trananhvy" alt="Github">
+  <a href="https://github.com/trananhvy9420" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="48" height="48"/>
   </a> 
   <a href="https://www.instagram.com/quachthanhvy159o/" alt="Instagram">
