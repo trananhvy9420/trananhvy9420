@@ -30,8 +30,11 @@
   <a href="https://www.instagram.com/quachthanhvy159o/" alt="Instagram">
     <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="48" height="48" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" alt="Gmail"> 
-    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="48" height="48"/>
+  <a href="https://www.linkedin.com/in/v%E1%BB%B9-tr%E1%BA%A7n-64484636a/" alt="Linkedln"> 
+    <img src="https://icons8.com/icon/13930/linkedin" width="48" height="48"/>
+  </a>
+   <a href="https://gitlab.com/trananhvy9420" alt="Gitlab"> 
+    <img src="https://icons8.com/icon/34886/gitlab" width="48" height="48"/>
   </a>
 </p>
 
