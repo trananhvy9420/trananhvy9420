@@ -8,7 +8,7 @@
 
 - ✍ I'm a student of: [FPT University] (FPTU).
 
-- 🌱 I’m currently learning **React, NodeJS , ExpressJS .**
+- 🌱 I’m currently learning **React, React-Native , NodeJS , ExpressJS .**
 
 <br />
 
